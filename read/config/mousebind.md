@@ -29,11 +29,11 @@ parent: Config
 
 ## Window Frame
 
-| Mousebind                     | Action            |
-| ----------------------------- | ----------------- |
-| `Win + [Mouse Left Drag]`     | Move Window       |
-| `Win + [Mouse Right Drag]`    | Resize Window     |
-| `Win + [Mouse Middle Click]`  | Show Client Menu  |
+| Mousebind                      | Action                      |
+| ------------------------------ | --------------------------- |
+| `Win + [Mouse Left Drag]`      | Move Window                 |
+| `Win + [Mouse Right Drag]`     | Resize Window               |
+| `Win + [Mouse Middle Click]`   | Show Client Menu            |
 
 
 ## Window Titlebar
