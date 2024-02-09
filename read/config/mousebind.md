@@ -44,9 +44,7 @@ parent: Config
 | `[Mouse Left Click]`           | Window Focus and Raise      |
 | `[Mouse Left Double Click]`    | Window Maximize             |
 | `[Mouse Right Click]`          | Show Client Menu            |
-| `[Mouse Middle Up]`            | Window Shade                |
-| `[Mouse Middle Down]`          | Window UnShade              |
-| `[Mouse Middle Double Click]`  | Window Lower and UnFocus    |
+| `[Mouse Middle Double Click]`  | Window Shade or UnShade     |
 
 
 ## Window Corner or Side
@@ -61,11 +59,7 @@ parent: Config
 
 | Mousebind                      | Action                      |
 | ------------------------------ | --------------------------- |
-| `[Mouse Left Double Click]`    | Toggle Show Desktop         |
-| `[Mouse Right Click]`          | Show Root Menu              |
-| `[Mouse Middle Up]`            | Previous Workspace          |
-| `[Mouse Middle Down]`          | Next Workspace              |
-| `[Mouse Middle Click]`         | Show Workspace Menu         |
+| `[Mouse Right Click]`          | Show Desktop Menu           |
 
 
 ## Link
