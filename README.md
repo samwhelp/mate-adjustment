@@ -48,7 +48,11 @@
 
 | Link | GitHub |
 | ---- | ------ |
-| [Debian Adjustment](https://samwhelp.github.io/debian-adjustment/) | [GitHub](https://github.com/samwhelp/debian-adjustment) |
+| [LinuxMint Mate Adjustment](https://samwhelp.github.io/linuxmint-mate-adjustment/) | [GitHub](https://github.com/samwhelp/linuxmint-mate-adjustment) |
+| [Ubuntu Mate Adjustment](https://samwhelp.github.io/ubuntu-mate-adjustment/) | [GitHub](https://github.com/samwhelp/ubuntu-mate-adjustment) |
+| [Debian Mate Adjustment](https://samwhelp.github.io/debian-mate-adjustment/) | [GitHub](https://github.com/samwhelp/debian-mate-adjustment) |
+| [Archlinux Mate Adjustment](https://samwhelp.github.io/archlinux-mate-adjustment/) | [GitHub](https://github.com/samwhelp/archlinux-mate-adjustment) |
+| [Voidlinux Mate Adjustment](https://samwhelp.github.io/voidlinux-mate-adjustment/) | [GitHub](https://github.com/samwhelp/voidlinux-mate-adjustment) |
 
 
 
