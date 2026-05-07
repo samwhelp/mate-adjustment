@@ -27,7 +27,7 @@
 
 | Script |
 | ------ |
-| [Mate Config](https://github.com/samwhelp/mate-adjustment/tree/main/prototype/main/) |
+| [Mate Config](https://github.com/samwhelp/mate-adjustment/tree/main/prototype/main/mate-config) |
 | [mate-adjustment](https://github.com/samwhelp/mate-adjustment/tree/main/demo/scripts/main/mate-adjustment) |
 
 
